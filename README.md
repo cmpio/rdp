@@ -1,10 +1,10 @@
-# 📰 [Revue de presse] Handicap
+# 📰 Revue de presse Handicap
 
 Génération automatique d'une revue de presse sur le handicap toutes les 30 minutes de 7h à 23h30.
 
-## 🔗 Accès aux revues de presse
+## 🔗 Accès à la revue de presse
 
-➡️ **[Consulter les archives](https://cmpio.github.io/rdp/)**
+➡️ **[Consulter la revue de presse](https://cmpio.github.io/rdp/)**
 
 ## 📅 Fréquence de mise à jour
 
@@ -34,7 +34,7 @@ Le script Python `handicap_scraper.py` :
 
 ## 🛠️ Configuration technique
 
-- **GitHub Actions** : Automatisation via cron job
+- **GitHub Actions** : Automatisation via cron job (`0,30 6-23 * * *`)
 - **GitHub Pages** : Hébergement gratuit
 - **Python 3.11** : Traitement RSS et génération HTML/TXT
 - **Quota** : ~1080 exécutions/mois (dans les limites gratuites GitHub)
