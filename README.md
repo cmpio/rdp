@@ -1,4 +1,4 @@
-# 📰 Revue de presse Handicap
+# 📰 [Revue de presse] Handicap
 
 Génération automatique d'une revue de presse sur le handicap toutes les 30 minutes de 7h à 23h30.
 
