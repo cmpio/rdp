@@ -206,8 +206,8 @@ class HandicapArticleScraper:
     
     def save_summary_only(self, articles):
         """Create only the summary HTML file"""
-        # Create directory
-        os.makedirs('_archives_du_flux', exist_ok=True)
+        # Create directory (for GitHub Pages, we'll put files at root)
+        os.makedirs('archives', exist_ok=True)
         
         # Create summary HTML file
         self.create_summary_html(articles)
@@ -316,12 +316,12 @@ class HandicapArticleScraper:
         # Create filename with format yyyy-mm-dd
         today = datetime.now()
         filename = f"{today.strftime('%Y-%m-%d')}.html"
-        filepath = os.path.join('_archives_du_flux', filename)
+        filepath = os.path.join('archives', filename)
         
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(summary_content)
-            print(f"Summary file created: _archives_du_flux/{filename}")
+            print(f"Summary file created: archives/{filename}")
         except Exception as e:
             print(f"Error creating summary file: {e}")
     
@@ -356,12 +356,12 @@ class HandicapArticleScraper:
         # Create filename with format yyyy-mm-dd
         today = datetime.now()
         filename = f"{today.strftime('%Y-%m-%d')}.txt"
-        filepath = os.path.join('_archives_du_flux', filename)
+        filepath = os.path.join('archives', filename)
         
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(summary_content)
-            print(f"Text summary file created: _archives_du_flux/{filename}")
+            print(f"Text summary file created: archives/{filename}")
         except Exception as e:
             print(f"Error creating text summary file: {e}")
     
@@ -370,12 +370,12 @@ class HandicapArticleScraper:
         import glob
         
         # Get all HTML files in the directory
-        html_files = glob.glob('_archives_du_flux/*.html')
+        html_files = glob.glob('archives/*.html')
         html_files = [f for f in html_files if not f.endswith('index.html')]
         html_files.sort(reverse=True)  # Most recent first
         
         # Get all TXT files
-        txt_files = glob.glob('_archives_du_flux/*.txt')
+        txt_files = glob.glob('archives/*.txt')
         txt_files.sort(reverse=True)
         
         index_content = """<!DOCTYPE html>
@@ -476,8 +476,8 @@ class HandicapArticleScraper:
                 html_file = f"{date_str}.html"
                 txt_file = f"{date_str}.txt"
                 
-                html_exists = os.path.exists(f"_archives_du_flux/{html_file}")
-                txt_exists = os.path.exists(f"_archives_du_flux/{txt_file}")
+                html_exists = os.path.exists(f"archives/{html_file}")
+                txt_exists = os.path.exists(f"archives/{txt_file}")
                 
                 if html_exists or txt_exists:
                     index_content += f"""
@@ -486,9 +486,9 @@ class HandicapArticleScraper:
             <div class="file-links">
 """
                     if html_exists:
-                        index_content += f'                <a href="{html_file}" class="file-link">📄 HTML</a>\n'
+                        index_content += f'                <a href="archives/{html_file}" class="file-link">📄 HTML</a>\n'
                     if txt_exists:
-                        index_content += f'                <a href="{txt_file}" class="file-link">📝 Texte</a>\n'
+                        index_content += f'                <a href="archives/{txt_file}" class="file-link">📝 Texte</a>\n'
                     
                     index_content += """            </div>
         </div>"""
@@ -508,9 +508,9 @@ class HandicapArticleScraper:
 </body>
 </html>"""
         
-        # Write index file
+        # Write index file at root for GitHub Pages
         try:
-            with open('_archives_du_flux/index.html', 'w', encoding='utf-8') as f:
+            with open('index.html', 'w', encoding='utf-8') as f:
                 f.write(index_content)
         except Exception as e:
             print(f"Error creating index page: {e}")
@@ -547,9 +547,9 @@ class HandicapArticleScraper:
         txt_filename = f"{today.strftime('%Y-%m-%d')}.txt"
         
         print(f"Successfully processed {len(articles)} articles")
-        print(f"HTML summary available at: _archives_du_flux/{html_filename}")
-        print(f"Text summary available at: _archives_du_flux/{txt_filename}")
-        print(f"Index page updated: _archives_du_flux/index.html")
+        print(f"HTML summary available at: archives/{html_filename}")
+        print(f"Text summary available at: archives/{txt_filename}")
+        print(f"Index page updated: index.html")
 
 def main():
     scraper = HandicapArticleScraper()
