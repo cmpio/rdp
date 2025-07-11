@@ -4,9 +4,7 @@ Génération automatique d'une revue de presse sur le handicap toutes les 30 min
 
 ## 🔗 Accès aux revues de presse
 
-➡️ **[Consulter les archives](https://votre-username.github.io/revue-presse-handicap/)**
-
-*(Remplacez `votre-username` par votre nom d'utilisateur GitHub)*
+➡️ **[Consulter les archives](https://cmpio.github.io/rdp/)**
 
 ## 📅 Fréquence de mise à jour
 
