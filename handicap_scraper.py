@@ -322,6 +322,11 @@ class HandicapArticleScraper:
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(summary_content)
             print(f"Summary file created: archives/{filename}")
+
+            # Écrase aussi index.html à la racine
+            with open('index.html', 'w', encoding='utf-8') as f_index:
+                f_index.write(summary_content)
+            print("index.html écrasé avec le résumé du jour")
         except Exception as e:
             print(f"Error creating summary file: {e}")
     
