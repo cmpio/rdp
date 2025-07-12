@@ -19,78 +19,75 @@
             text-align: center;
             margin-bottom: 30px;
         }
-        .navigation {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .nav-link {
-            color: #3498db;
-            text-decoration: none;
-            margin: 0 15px;
-            padding: 10px 20px;
-            border: 1px solid #3498db;
-            border-radius: 5px;
-            font-weight: bold;
-        }
-        .nav-link:hover {
-            background-color: #3498db;
-            color: white;
-        }
-        .info {
+        .file-list {
             background: white;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             margin-bottom: 20px;
         }
-        .url-list {
-            background: #e8f6f3;
-            padding: 15px;
-            border-radius: 5px;
-            margin: 10px 0;
+        .file-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
         }
-        .url-item {
-            margin: 5px 0;
-            font-family: monospace;
-            background: white;
-            padding: 8px;
-            border-radius: 3px;
+        .file-item:last-child {
+            border-bottom: none;
+        }
+        .file-date {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .file-links {
+            display: flex;
+            gap: 10px;
+        }
+        .file-link {
+            color: #3498db;
+            text-decoration: none;
+            padding: 5px 10px;
+            border: 1px solid #3498db;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .file-link:hover {
+            background-color: #3498db;
+            color: white;
+        }
+        .last-update {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>📰 Revue de presse Handicap - Guide d'accès</h1>
+    <h1>📰 Archives - Revue de presse Handicap</h1>
     
-    <div class="navigation">
-        <a href="." class="nav-link">📄 Revue du jour</a>
-        <a href="txt.html" class="nav-link">📝 Fichier texte</a>
-    </div>
-    
-    <div class="info">
-        <h2>🔗 URLs de redirection automatique</h2>
-        <p>Ces URLs pointent toujours vers les fichiers les plus récents :</p>
-        
-        <div class="url-list">
-            <div class="url-item">
-                <strong>Revue HTML :</strong> https://cmpio.github.io/rdp/
-            </div>
-            <div class="url-item">
-                <strong>Fichier texte :</strong> https://cmpio.github.io/rdp/txt
+    <div class="file-list">
+        <h2>Revues de presse disponibles</h2>
+
+        <div class="file-item">
+            <div class="file-date">Samedi 12 juillet 2025</div>
+            <div class="file-links">
+                <a href="archives/2025-07-12.html" class="file-link">📄 HTML</a>
+                <a href="archives/2025-07-12.txt" class="file-link">📝 Texte</a>
             </div>
         </div>
-        
-        <h3>📋 Formats disponibles</h3>
-        <ul>
-            <li><strong>HTML</strong> : Lecture web optimisée avec liens cliquables</li>
-            <li><strong>TXT</strong> : Format markdown pour traitement automatique</li>
-        </ul>
-        
-        <h3>⏰ Mise à jour</h3>
-        <ul>
-            <li><strong>Fréquence</strong> : Toutes les 30 minutes de 7h à 23h30</li>
-            <li><strong>Contenu</strong> : 1 fichier par jour (écrasé à chaque mise à jour)</li>
-            <li><strong>Sources</strong> : handicap.fr, faire-face.fr, handinova.fr, handicap.live, yanous.com</li>
-        </ul>
+        <div class="file-item">
+            <div class="file-date">Vendredi 11 juillet 2025</div>
+            <div class="file-links">
+                <a href="archives/2025-07-11.html" class="file-link">📄 HTML</a>
+                <a href="archives/2025-07-11.txt" class="file-link">📝 Texte</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="last-update">
+        Dernière mise à jour: Samedi 12 juillet 2025 à 23:56
     </div>
 </body>
 </html>
