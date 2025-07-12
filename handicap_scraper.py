@@ -364,11 +364,39 @@ class HandicapArticleScraper:
         filepath = os.path.join('archives', filename)
         
         try:
+            # Créer le fichier txt dans archives
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(summary_content)
             print(f"Text summary file created: archives/{filename}")
+
+            # Créer le fichier txt.html à la racine
+            html_content = f"""<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Revue de presse] {today_french}</title>
+    <style>
+        body {{
+            font-family: monospace;
+            white-space: pre-wrap;
+            max-width: 1000px;
+            margin: 20px auto;
+            padding: 15px;
+            line-height: 1.4;
+        }}
+    </style>
+</head>
+<body>
+{summary_content}
+</body>
+</html>"""
+
+        with open('txt.html', 'w', encoding='utf-8') as f:
+            f.write(html_content)
+        print("txt.html écrasé avec le résumé du jour au format texte")
         except Exception as e:
-            print(f"Error creating text summary file: {e}")
+            print(f"Error creating text summary files: {e}")
     
     def create_index_page(self):
         """Create an index page listing all available press reviews"""
