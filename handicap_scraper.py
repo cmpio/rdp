@@ -8,16 +8,65 @@ import re
 from datetime import datetime
 import locale
 import xml.etree.ElementTree as ET
+import logging
 
 class HandicapArticleScraper:
     def __init__(self):
         self.articles = []
+        self.setup_logging()
         # Try to set French locale for date formatting
         try:
             locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
+            self.logger.info("French locale set successfully")
         except:
             # Fallback if French locale not available
+            self.logger.warning("Could not set French locale, using default")
             pass
+    
+    def setup_logging(self):
+        """Setup logging with rotation to keep max 300 lines"""
+        self.log_file = 'handicap_scraper.log'
+        
+        # Create logger
+        self.logger = logging.getLogger('handicap_scraper')
+        self.logger.setLevel(logging.INFO)
+        
+        # Clear existing handlers
+        self.logger.handlers.clear()
+        
+        # Create formatter
+        formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+        
+        # Console handler
+        console_handler = logging.StreamHandler()
+        console_handler.setFormatter(formatter)
+        self.logger.addHandler(console_handler)
+        
+        # File handler with log rotation
+        file_handler = logging.FileHandler(self.log_file, mode='a', encoding='utf-8')
+        file_handler.setFormatter(formatter)
+        self.logger.addHandler(file_handler)
+        
+        # Rotate log if too many lines
+        self.rotate_log_if_needed()
+    
+    def rotate_log_if_needed(self):
+        """Rotate log file if it exceeds 300 lines"""
+        if not os.path.exists(self.log_file):
+            return
+        
+        try:
+            with open(self.log_file, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            if len(lines) > 300:
+                # Keep only the last 200 lines to have some margin
+                with open(self.log_file, 'w', encoding='utf-8') as f:
+                    f.write(f"# Log rotated at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - keeping last 200 lines\n")
+                    f.writelines(lines[-200:])
+                self.logger.info(f"Log file rotated: kept last 200 lines out of {len(lines)}")
+        except Exception as e:
+            print(f"Error rotating log file: {e}")
     
     def fetch_rss(self, url):
         """Fetch RSS feed content"""
@@ -29,9 +78,11 @@ class HandicapArticleScraper:
             })
             
             with urllib.request.urlopen(req, timeout=30) as response:
-                return response.read().decode('utf-8')
+                content = response.read().decode('utf-8')
+                self.logger.info(f"Successfully fetched RSS feed from {url}")
+                return content
         except Exception as e:
-            print(f"Error fetching RSS feed: {e}")
+            self.logger.error(f"Error fetching RSS feed: {e}")
             return None
     
     def extract_date_from_link(self, link):
@@ -74,7 +125,7 @@ class HandicapArticleScraper:
                                 except:
                                     continue
         except Exception as e:
-            print(f"Could not extract date from {link}: {e}")
+            self.logger.debug(f"Could not extract date from {link}: {e}")
         
         # Fallback to current date
         return datetime.now()
@@ -90,7 +141,7 @@ class HandicapArticleScraper:
             # Find all item elements
             items = root.findall('.//item')
             
-            print(f"Found {len(items)} items in RSS feed")
+            self.logger.info(f"Found {len(items)} items in RSS feed")
             
             for item in items:
                 try:
@@ -148,16 +199,16 @@ class HandicapArticleScraper:
                     }
                     
                     parsed_articles.append(article)
-                    print(f"Parsed: {title} - {article['date_text']}")
+                    self.logger.info(f"Article: {clean_title}")
                     
                 except Exception as e:
-                    print(f"Error parsing RSS item: {e}")
+                    self.logger.warning(f"Error parsing RSS item: {e}")
                     continue
             
         except ET.ParseError as e:
-            print(f"Error parsing RSS XML: {e}")
+            self.logger.error(f"Error parsing RSS XML: {e}")
         except Exception as e:
-            print(f"Error processing RSS feed: {e}")
+            self.logger.error(f"Error processing RSS feed: {e}")
         
         # Sort articles by date (newest first)
         parsed_articles.sort(key=lambda x: x['date'], reverse=True)
@@ -321,14 +372,14 @@ class HandicapArticleScraper:
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(summary_content)
-            print(f"Summary file created: archives/{filename}")
+            self.logger.info(f"Summary file created: archives/{filename}")
 
             # Écrase index.html à la racine avec le contenu de la dernière version
             with open('index.html', 'w', encoding='utf-8') as f_index:
                 f_index.write(summary_content)
-            print("index.html écrasé avec le résumé du jour")
+            self.logger.info("index.html écrasé avec le résumé du jour")
         except Exception as e:
-            print(f"Error creating summary file: {e}")
+            self.logger.error(f"Error creating summary file: {e}")
     
     def create_summary_text(self, articles):
         """Create a summary text file with all articles"""
@@ -367,7 +418,7 @@ class HandicapArticleScraper:
             # Créer le fichier txt dans archives
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(summary_content)
-            print(f"Text summary file created: archives/{filename}")
+            self.logger.info(f"Text summary file created: archives/{filename}")
 
             # Écrase txt.html à la racine avec le contenu de la dernière version au format texte
             html_content = f"""<!DOCTYPE html>
@@ -394,9 +445,9 @@ class HandicapArticleScraper:
 
             with open('txt.html', 'w', encoding='utf-8') as f:
                 f.write(html_content)
-            print("txt.html écrasé avec le résumé du jour au format texte")
+            self.logger.info("txt.html écrasé avec le résumé du jour au format texte")
         except Exception as e:
-            print(f"Error creating text summary files: {e}")
+            self.logger.error(f"Error creating text summary files: {e}")
     
     def create_index_page(self):
         """Create an index page listing all available press reviews"""
@@ -541,38 +592,38 @@ class HandicapArticleScraper:
 </body>
 </html>"""
         
-        # Write index file at root for GitHub Pages
+        # Write archives file at root for GitHub Pages
         try:
-            with open('index.html', 'w', encoding='utf-8') as f:
+            with open('archives.html', 'w', encoding='utf-8') as f:
                 f.write(index_content)
         except Exception as e:
-            print(f"Error creating index page: {e}")
+            self.logger.error(f"Error creating archives page: {e}")
     
     
     def run(self):
         """Main execution method"""
         rss_url = "https://www.inoreader.com/stream/user/1006129458/tag/Handicap__Revue_de_presse"
         
-        print("Fetching RSS feed from:", rss_url)
+        self.logger.info(f"Starting RSS scraper for: {rss_url}")
         rss_content = self.fetch_rss(rss_url)
         
         if not rss_content:
-            print("Failed to fetch RSS feed")
+            self.logger.error("Failed to fetch RSS feed")
             return
         
-        print("Parsing RSS articles...")
+        self.logger.info("Parsing RSS articles...")
         articles = self.parse_rss_articles(rss_content)
         
         if not articles:
-            print("No articles found in RSS feed!")
+            self.logger.warning("No articles found in RSS feed!")
             return
         
-        print(f"Found {len(articles)} articles")
+        self.logger.info(f"Found {len(articles)} articles")
         
-        print("Creating summary...")
+        self.logger.info("Creating summary...")
         self.save_summary_only(articles)
         
-        print("Creating index page...")
+        self.logger.info("Creating archives page...")
         self.create_index_page()
         
         # Get today's filename for the message
@@ -580,10 +631,10 @@ class HandicapArticleScraper:
         html_filename = f"{today.strftime('%Y-%m-%d')}.html"
         txt_filename = f"{today.strftime('%Y-%m-%d')}.txt"
         
-        print(f"Successfully processed {len(articles)} articles")
-        print(f"HTML summary available at: archives/{html_filename}")
-        print(f"Text summary available at: archives/{txt_filename}")
-        print(f"Index page updated: index.html")
+        self.logger.info(f"Successfully processed {len(articles)} articles")
+        self.logger.info(f"HTML summary available at: archives/{html_filename}")
+        self.logger.info(f"Text summary available at: archives/{txt_filename}")
+        self.logger.info(f"Archives page updated: archives.html")
 
 def main():
     scraper = HandicapArticleScraper()

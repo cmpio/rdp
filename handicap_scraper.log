@@ -1,0 +1,52 @@
+2025-07-12 23:54:50,742 - WARNING - Could not set French locale, using default
+2025-07-12 23:54:50,742 - INFO - Starting RSS scraper for: https://www.inoreader.com/stream/user/1006129458/tag/Handicap__Revue_de_presse
+2025-07-12 23:54:50,891 - INFO - Successfully fetched RSS feed from https://www.inoreader.com/stream/user/1006129458/tag/Handicap__Revue_de_presse
+2025-07-12 23:54:50,892 - INFO - Parsing RSS articles...
+2025-07-12 23:54:50,893 - INFO - Found 20 items in RSS feed
+2025-07-12 23:54:50,896 - INFO - Found 20 articles
+2025-07-12 23:54:50,896 - INFO - Creating summary...
+2025-07-12 23:54:50,896 - INFO - Summary file created: archives/2025-07-12.html
+2025-07-12 23:54:50,897 - INFO - index.html écrasé avec le résumé du jour
+2025-07-12 23:54:50,897 - INFO - Text summary file created: archives/2025-07-12.txt
+2025-07-12 23:54:50,897 - INFO - txt.html écrasé avec le résumé du jour au format texte
+2025-07-12 23:54:50,897 - INFO - Creating archives page...
+2025-07-12 23:54:50,897 - INFO - Successfully processed 20 articles
+2025-07-12 23:54:50,897 - INFO - HTML summary available at: archives/2025-07-12.html
+2025-07-12 23:54:50,897 - INFO - Text summary available at: archives/2025-07-12.txt
+2025-07-12 23:54:50,897 - INFO - Archives page updated: archives.html
+2025-07-12 23:56:23,005 - WARNING - Could not set French locale, using default
+2025-07-12 23:56:23,005 - INFO - Starting RSS scraper for: https://www.inoreader.com/stream/user/1006129458/tag/Handicap__Revue_de_presse
+2025-07-12 23:56:23,168 - INFO - Successfully fetched RSS feed from https://www.inoreader.com/stream/user/1006129458/tag/Handicap__Revue_de_presse
+2025-07-12 23:56:23,168 - INFO - Parsing RSS articles...
+2025-07-12 23:56:23,169 - INFO - Found 20 items in RSS feed
+2025-07-12 23:56:23,181 - INFO - Article: Une Barbie diabétique pour mieux représenter les enfants
+2025-07-12 23:56:23,181 - INFO - Article: MDPH : mesures gouvernementales de bon sens selon les asso
+2025-07-12 23:56:23,181 - INFO - Article: Il relie Lyon à Bucarest en voiture pour défendre le droit à la mobilité pour tous
+2025-07-12 23:56:23,181 - INFO - Article: Unafam : 48 propositions pour 'refonder la psychiatrie'
+2025-07-12 23:56:23,181 - INFO - Article: Aftral et l’Agefiph renouvellent leur partenariat : accélérer l’inclusion dans les transports et la logistique
+2025-07-12 23:56:23,182 - INFO - Article: Transformation des MDPH : ces 18 mesures annoncées par la Ministre
+2025-07-12 23:56:23,182 - INFO - Article: Gérer les problèmes de santé les plus négligés des seniors
+2025-07-12 23:56:23,182 - INFO - Article: 18 mesures pour simplifier la vie des personnes handicapées
+2025-07-12 23:56:23,182 - INFO - Article: Handicap en outre-mer : le Sénat tire la sonnette d'alarme
+2025-07-12 23:56:23,183 - INFO - Article: Dans une boîte de nuit (de jour) pas comme les autres
+2025-07-12 23:56:23,183 - INFO - Article: Handicap Live - Dans une boîte de nuit...de jour pas comme les autres
+2025-07-12 23:56:23,183 - INFO - Article: Dépendance : le gouvernement passe les aides au crible
+2025-07-12 23:56:23,183 - INFO - Article: Caroline Dekerle nommée Directrice Générale de l’Agefiph
+2025-07-12 23:56:23,183 - INFO - Article: Caroline Dekerle nommée directrice générale de l'Agefiph
+2025-07-12 23:56:23,183 - INFO - Article: PAS : des équipes 'handicap' en appui des enseignants
+2025-07-12 23:56:23,183 - INFO - Article: [En salles] Buffalo Kids : un western d’animation qui joue la carte de l’inclusion
+2025-07-12 23:56:23,183 - INFO - Article: Accessibilité et inclusion en Île-de-France : les avancées et ce qu’il reste à faire
+2025-07-12 23:56:23,184 - INFO - Article: Rendre le bilan de compétences accessible : un levier pour l’emploi des personnes en situation de handicap invisible
+2025-07-12 23:56:23,184 - INFO - Article: Tour de France 2025 : Maillot jaune en braille, historique!
+2025-07-12 23:56:23,184 - INFO - Article: Margault, pionnière de la 'régie handicap' au cinéma
+2025-07-12 23:56:23,184 - INFO - Found 20 articles
+2025-07-12 23:56:23,184 - INFO - Creating summary...
+2025-07-12 23:56:23,184 - INFO - Summary file created: archives/2025-07-12.html
+2025-07-12 23:56:23,184 - INFO - index.html écrasé avec le résumé du jour
+2025-07-12 23:56:23,185 - INFO - Text summary file created: archives/2025-07-12.txt
+2025-07-12 23:56:23,185 - INFO - txt.html écrasé avec le résumé du jour au format texte
+2025-07-12 23:56:23,185 - INFO - Creating archives page...
+2025-07-12 23:56:23,193 - INFO - Successfully processed 20 articles
+2025-07-12 23:56:23,193 - INFO - HTML summary available at: archives/2025-07-12.html
+2025-07-12 23:56:23,193 - INFO - Text summary available at: archives/2025-07-12.txt
+2025-07-12 23:56:23,193 - INFO - Archives page updated: archives.html
