@@ -323,7 +323,7 @@ class HandicapArticleScraper:
                 f.write(summary_content)
             print(f"Summary file created: archives/{filename}")
 
-            # Écrase aussi index.html à la racine
+            # Écrase index.html à la racine avec le contenu de la dernière version
             with open('index.html', 'w', encoding='utf-8') as f_index:
                 f_index.write(summary_content)
             print("index.html écrasé avec le résumé du jour")
@@ -369,7 +369,7 @@ class HandicapArticleScraper:
                 f.write(summary_content)
             print(f"Text summary file created: archives/{filename}")
 
-            # Créer le fichier txt.html à la racine
+            # Écrase txt.html à la racine avec le contenu de la dernière version au format texte
             html_content = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -392,9 +392,9 @@ class HandicapArticleScraper:
 </body>
 </html>"""
 
-        with open('txt.html', 'w', encoding='utf-8') as f:
-            f.write(html_content)
-        print("txt.html écrasé avec le résumé du jour au format texte")
+            with open('txt.html', 'w', encoding='utf-8') as f:
+                f.write(html_content)
+            print("txt.html écrasé avec le résumé du jour au format texte")
         except Exception as e:
             print(f"Error creating text summary files: {e}")
     
@@ -548,108 +548,6 @@ class HandicapArticleScraper:
         except Exception as e:
             print(f"Error creating index page: {e}")
     
-    def create_redirect_pages(self):
-        """Create redirect pages to latest files"""
-        import glob
-        
-        # Get the most recent HTML and TXT files
-        html_files = glob.glob('archives/*.html')
-        html_files.sort(reverse=True)  # Most recent first
-        
-        txt_files = glob.glob('archives/*.txt')
-        txt_files.sort(reverse=True)  # Most recent first
-        
-        if html_files:
-            latest_html = os.path.basename(html_files[0])
-            
-            # Create root index.html that redirects to latest HTML
-            redirect_html = f"""<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=archives/{latest_html}">
-    <title>Redirection vers la revue de presse</title>
-    <style>
-        body {{
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f8f9fa;
-        }}
-        .loading {{
-            color: #3498db;
-            font-size: 1.2em;
-        }}
-        .manual-link {{
-            color: #3498db;
-            text-decoration: none;
-            font-weight: bold;
-        }}
-    </style>
-</head>
-<body>
-    <div class="loading">
-        📰 Redirection vers la revue de presse du jour...
-    </div>
-    <p>
-        Si la redirection ne fonctionne pas, 
-        <a href="archives/{latest_html}" class="manual-link">cliquez ici</a>
-    </p>
-</body>
-</html>"""
-            
-            try:
-                with open('index.html', 'w', encoding='utf-8') as f:
-                    f.write(redirect_html)
-                print(f"Redirect page created: index.html → archives/{latest_html}")
-            except Exception as e:
-                print(f"Error creating redirect page: {e}")
-        
-        if txt_files:
-            latest_txt = os.path.basename(txt_files[0])
-            
-            # Create txt.html that redirects to latest TXT
-            redirect_txt = f"""<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=archives/{latest_txt}">
-    <title>Redirection vers le fichier texte</title>
-    <style>
-        body {{
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f8f9fa;
-        }}
-        .loading {{
-            color: #3498db;
-            font-size: 1.2em;
-        }}
-        .manual-link {{
-            color: #3498db;
-            text-decoration: none;
-            font-weight: bold;
-        }}
-    </style>
-</head>
-<body>
-    <div class="loading">
-        📝 Redirection vers le fichier texte du jour...
-    </div>
-    <p>
-        Si la redirection ne fonctionne pas, 
-        <a href="archives/{latest_txt}" class="manual-link">cliquez ici</a>
-    </p>
-</body>
-</html>"""
-            
-            try:
-                with open('txt.html', 'w', encoding='utf-8') as f:
-                    f.write(redirect_txt)
-                print(f"Redirect page created: txt.html → archives/{latest_txt}")
-            except Exception as e:
-                print(f"Error creating txt redirect page: {e}")
     
     def run(self):
         """Main execution method"""
@@ -676,9 +574,6 @@ class HandicapArticleScraper:
         
         print("Creating index page...")
         self.create_index_page()
-        
-        print("Creating redirect pages...")
-        self.create_redirect_pages()
         
         # Get today's filename for the message
         today = datetime.now()
