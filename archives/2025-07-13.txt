@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 13 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 13 juillet 2025
 
 # Des distributeurs sommés de rendre leur site web accessible
@@ -118,6 +100,3 @@ Le Tour de France célèbre les 200 ans du braille ! Le 9 juillet 2025, le Maill
 https://informations.handicap.fr/a-tour-de-france-2025-maillot-jaune-en-braille-historique-38199.php
 mardi 8 juillet 2025
 
-
-</body>
-</html>
