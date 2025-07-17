@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 17 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 17 juillet 2025
 
 # Canicule : quelles solutions pour les personnes handicapées?
@@ -118,6 +100,3 @@ jeudi 10 juillet 2025
 https://informations.handicap.fr/a-dans-une-boite-de-nuit-de-jour-pas-comme-les-autres-38217.php
 jeudi 10 juillet 2025
 
-
-</body>
-</html>
