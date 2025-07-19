@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 19 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 19 juillet 2025
 
 # Vacances : un luxe peu accessible aux personnes handicapées?
@@ -118,6 +100,3 @@ mardi 15 juillet 2025
 https://www.handicap.live/video/violence-le-temoignage-inedit-de-trois-hommes-handicapes-1188
 mardi 15 juillet 2025
 
-
-</body>
-</html>
