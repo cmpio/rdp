@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 20 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 20 juillet 2025
 
 # Mines antipersonnel : un retour inquiétant en Europe
@@ -118,6 +100,3 @@ Handinova met à l’honneur certains de ceux qui œuvrent chaque jour à l’in
 https://handinova.fr/100-personnes-qui-font-avancer-linclusion-du-handicap-en-france/
 mardi 15 juillet 2025
 
-
-</body>
-</html>
