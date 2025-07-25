@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 25 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 25 juillet 2025
 
 # Psychiatrie : la contention de plus en plus contestée
@@ -118,6 +100,3 @@ Pour améliorer le fonctionnement des maisons départementales des personnes han
 https://www.faire-face.fr/2025/07/17/mdph-18-mesures-pour-simplifier-les-demarches-des-personnes-handicapees/
 vendredi 18 juillet 2025
 
-
-</body>
-</html>
