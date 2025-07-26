@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 26 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 26 juillet 2025
 
 # Cinéma, audiovisuel : Jaris, formation gratuite et inclusive
@@ -118,6 +100,3 @@ vendredi 18 juillet 2025
 https://www.youtube.com/watch?v=zR3X-Wxbn-s
 vendredi 18 juillet 2025
 
-
-</body>
-</html>
