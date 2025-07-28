@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 28 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 28 juillet 2025
 
 # Incident du PAM : Île-de-France mobilités s'explique
@@ -118,6 +100,3 @@ Près de 40 % des adultes handicapés n'ont pas les moyens de partir une semaine
 https://informations.handicap.fr/a-vacances-un-luxe-peu-accessible-aux-personnes-handicapees-38253.php
 samedi 19 juillet 2025
 
-
-</body>
-</html>
