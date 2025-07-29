@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 29 juillet 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 29 juillet 2025
 
 # La PCH entravée par des conseils départementaux
@@ -118,6 +100,3 @@ Embauches en hausse, maintien dans l'emploi renforcé, mais chômage persistant.
 https://informations.handicap.fr/a-emploi-et-handicap-en-2025-avancees-et-freins-persistants-38255.php
 lundi 21 juillet 2025
 
-
-</body>
-</html>
