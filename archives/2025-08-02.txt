@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 2 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 2 août 2025
 
 # Les aidants, privés de grandes vacances?
@@ -118,6 +100,3 @@ Dans la nuit du 27 au 28 juillet 2025, un incendie a ravagé un gîte accueillan
 https://informations.handicap.fr/a-incendie-mortel-dans-un-gite-pour-personnes-handicapees-38277.php
 lundi 28 juillet 2025
 
-
-</body>
-</html>
