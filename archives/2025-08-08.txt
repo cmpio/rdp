@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 8 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 8 août 2025
 
 # Franchises médicales : vers un coût doublé pour les patients
@@ -118,6 +100,3 @@ Qu’est-ce que le capital solaire ? Le capital solaire désigne la capacité de
 https://handinova.fr/les-gestes-simples-pour-preserver-son-capital-solaire-au-quotidien/
 jeudi 31 juillet 2025
 
-
-</body>
-</html>
