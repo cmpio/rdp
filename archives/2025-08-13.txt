@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 13 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 13 août 2025
 
 # TSA, anxiété: espaces calmes, des initiatives encore timides
@@ -118,6 +100,3 @@ Alors que des millions de Français partent en vacances, nombre d'aidants sont "
 https://informations.handicap.fr/a-les-aidants-prives-de-vacances-estivales-38261.php
 samedi 2 août 2025
 
-
-</body>
-</html>
