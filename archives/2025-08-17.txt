@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 17 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 17 août 2025
 
 # Déclaration d’accident du travail : démarches pour employeurs et salariés
@@ -118,6 +100,3 @@ Accompagner la perte d’autonomie sans renoncer au confort de chez soi : telle 
 https://www.faire-face.fr/2025/08/04/youdom-care-lautonomie-a-domicile-en-toute-serenite/
 lundi 4 août 2025
 
-
-</body>
-</html>
