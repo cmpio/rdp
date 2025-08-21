@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 21 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 21 août 2025
 
 # Autisme et noyade : renforcer la prévention et l'inclusion
@@ -118,6 +100,3 @@ Le président argentin Javier Milei a opposé son veto à une loi d'urgence sur 
 https://informations.handicap.fr/a-argentine-veto-sur-une-loi-d-urgence-pour-le-handicap-38293.php
 dimanche 10 août 2025
 
-
-</body>
-</html>
