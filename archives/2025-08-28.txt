@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 28 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 28 août 2025
 
 # Rallye Aïcha des gazelles : le 1er duo handi-valide en 2026
@@ -118,6 +100,3 @@ Le 30 juin 2025, 25 États membres de l'UE, dont la France, ont signé une décl
 https://informations.handicap.fr/a-inclusion-handicap-25-etats-de-l-ue-s-engagent-en-2025-38313.php
 mardi 19 août 2025
 
-
-</body>
-</html>
