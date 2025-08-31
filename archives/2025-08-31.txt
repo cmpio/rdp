@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 31 août 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 31 août 2025
 
 # Aides sociales handicap : 23 mesures pour plus d'équité
@@ -118,6 +100,3 @@ En Argentine, la Chambre des députés a rejeté le veto présidentiel qui bloqu
 https://informations.handicap.fr/a-pensions-handicap-le-parlement-argentin-defie-le-veto-38331.php
 jeudi 21 août 2025
 
-
-</body>
-</html>
