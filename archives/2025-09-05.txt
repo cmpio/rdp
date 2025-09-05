@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 5 septembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 5 septembre 2025
 
 # Journée paralympique 2025 : la fête du parasport post-Jeux
@@ -118,6 +100,3 @@ L'engouement est retombé comme un soufflet. Un an après les Jeux paralympiques
 https://informations.handicap.fr/a-jeux-paralympiques-un-an-apres-fete-bien-finie-38341.php
 jeudi 28 août 2025
 
-
-</body>
-</html>
