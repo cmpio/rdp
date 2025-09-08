@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 8 septembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 8 septembre 2025
 
 # Esat : de nouveaux droits et une période d'essai réduite
@@ -118,6 +100,3 @@ Tout juste paru, et déjà couronné du prix Envoyé par La Poste, Des enfants u
 https://www.faire-face.fr/2025/09/02/des-enfants-uniques-gabrielle-de-tournemire/
 mardi 2 septembre 2025
 
-
-</body>
-</html>
