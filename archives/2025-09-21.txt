@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 21 septembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 21 septembre 2025
 
 # Emmanuel Perret, FFA : faire de l'accessibilité un réflexe!
@@ -118,6 +100,3 @@ Elle rêvait d'olympisme mais le revers de sa médaille, c'est un handicap à vi
 https://informations.handicap.fr/a-kenza-chaal-handicapee-le-revers-du-sport-de-haut-niveau-38389.php
 mercredi 17 septembre 2025
 
-
-</body>
-</html>
