@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 24 septembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 24 septembre 2025
 
 # Vaccin, paracétamol: aucun lien avec l'autisme, assure l'OMS
@@ -118,6 +100,3 @@ Cet outil de surcouche exploitant l'IA veut améliorer l'accès des usagers hand
 https://www.yanous.com/pratique/informatique/pointsdevue250919.html
 vendredi 19 septembre 2025
 
-
-</body>
-</html>
