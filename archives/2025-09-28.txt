@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 28 septembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 28 septembre 2025
 
 # Violences : un guide pour outiller les femmes handicapées
@@ -118,6 +100,3 @@ Jeudi 18, à l’Institut Pasteur, un public composé de dirigeants, de responsa
 https://handinova.fr/achats-inclusifs-un-levier-dimpact-societal-que-les-entreprises-ne-peuvent-plus-ignorer/
 dimanche 21 septembre 2025
 
-
-</body>
-</html>
