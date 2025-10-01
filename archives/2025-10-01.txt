@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 1 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 1 octobre 2025
 
 # [Lecture] Martin Petit, Va là où tu as peur : « La vulnérabilité donne des ailes »
@@ -118,6 +100,3 @@ Un an après l'annonce d'un engagement national pour la santé mentale, le dépu
 https://informations.handicap.fr/a-sante-mentale-grande-cause-nationale-un-rdv-manque-38405.php
 mardi 23 septembre 2025
 
-
-</body>
-</html>
