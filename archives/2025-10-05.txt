@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 5 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 5 octobre 2025
 
 # TND : un guide pour outiller parents et professionnels
@@ -118,6 +100,3 @@ La noyade n'est pas toujours fatale, mais elle peut causer des handicaps lourds,
 https://informations.handicap.fr/a-noyades-des-sequelles-neurologiques-souvent-irreversibles-38431.php
 mercredi 1 octobre 2025
 
-
-</body>
-</html>
