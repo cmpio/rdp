@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 11 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 11 octobre 2025
 
 # 'Tous ensemble au cinéma' : 140 salles accessibles à tous!
@@ -118,6 +100,3 @@ Après dix ans à travailler en psychiatrie, Sarah Moon Howe est propulsée dans
 https://informations.handicap.fr/a-sarah-moon-des-films-intimes-et-engages-sur-le-handicap-38433.php
 mardi 7 octobre 2025
 
-
-</body>
-</html>
