@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 15 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 15 octobre 2025
 
 # Travailler dans le sport avec un handicap : entre métiers émergents et statuts à réinventer
@@ -118,6 +100,3 @@ L'École supérieure des talents atypiques à Cergy réinvente l'enseignement su
 https://informations.handicap.fr/a-a-cergy-un-campus-ou-l-autisme-fait-ecole-38443.php
 jeudi 9 octobre 2025
 
-
-</body>
-</html>
