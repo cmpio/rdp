@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 18 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 18 octobre 2025
 
 # Handicap : Klach, un mois pour casser les codes du cinéma
@@ -118,6 +100,3 @@ En Europe, 8 aidants sur 10 assument seuls la charge d'un proche en perte d'auto
 https://informations.handicap.fr/a-quel-est-le-profil-des-aidants-en-europe-38451.php
 mercredi 15 octobre 2025
 
-
-</body>
-</html>
