@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 23 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 23 octobre 2025
 
 # CNCPH : un guide pour 'mieux parler du handicap'
@@ -118,6 +100,3 @@ L'offre diffusée sur les chaînes de télévision et VOD est rassemblée en tem
 https://www.yanous.com/tribus/aveugles/aveugles251017.html
 vendredi 17 octobre 2025
 
-
-</body>
-</html>
