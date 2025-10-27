@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 27 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 27 octobre 2025
 
 # T21 non détectée : le médecin doit indemniser les parents
@@ -118,6 +100,3 @@ La CNSA propose de créer, d'ici 2050, 500 000 solutions de logement partagé po
 https://informations.handicap.fr/a-handicap-500-000-logements-partages-en-plus-d-ici-2050-38477.php
 vendredi 17 octobre 2025
 
-
-</body>
-</html>
