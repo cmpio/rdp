@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 29 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 29 octobre 2025
 
 # Être aidant ET en situation de handicap : une double difficulté peu abordée
@@ -118,6 +100,3 @@ L’encéphalomyélite myalgique (EM), plus connue sous le nom de syndrome de fa
 https://handinova.fr/encephalomyelite-myalgique-comprendre-le-syndrome-de-la-fatigue-chronique/
 mardi 21 octobre 2025
 
-
-</body>
-</html>
