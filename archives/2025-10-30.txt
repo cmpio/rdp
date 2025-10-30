@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 30 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 30 octobre 2025
 
 # Handicap à l'école : 50 000 élèves sans accompagnement
@@ -118,6 +100,3 @@ Atteinte d'un lymphœdème depuis 20 ans, Joëlle a vu son corps se transformer,
 https://informations.handicap.fr/a-je-me-chausse-chez-les-hommes-dans-l-enfer-du-lymphoedeme-38485.php
 mercredi 22 octobre 2025
 
-
-</body>
-</html>
