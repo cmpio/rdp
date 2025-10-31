@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 31 octobre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 31 octobre 2025
 
 # Éducation : près de 50 000 élèves privés d’AESH
@@ -118,6 +100,3 @@ L’eau en France est saine, mais sa composition peut créer des complications c
 https://handinova.fr/filtrer-leau-pour-un-meilleur-confort-de-vie-pensez-a-ce-geste-simple/
 jeudi 23 octobre 2025
 
-
-</body>
-</html>
