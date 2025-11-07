@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 7 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 7 novembre 2025
 
 # L’école de plus en plus ouverte aux enfants accueillis en établissement spécialisé
@@ -118,6 +100,3 @@ lundi 3 novembre 2025
 https://informations.handicap.fr/a-competition-worldskills-les-talents-handicapes-a-l-honneur-38505.php
 dimanche 2 novembre 2025
 
-
-</body>
-</html>
