@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 17 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 17 novembre 2025
 
 # Série SEEPH : plein phare sur les discriminations en emploi
@@ -118,6 +100,3 @@ Aujourd’hui en France, près de 80% des handicaps restent invisibles. Pourtant
 https://handinova.fr/une-petition-pour-un-pictogramme-handicap-plus-inclusif/
 mercredi 12 novembre 2025
 
-
-</body>
-</html>
