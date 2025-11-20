@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 20 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 20 novembre 2025
 
 # Handicap en emploi : grand écart entre discours et réalité
@@ -118,6 +100,3 @@ Comédienne fidèle à ses valeurs, Catherine Marchal trace une route singulièr
 https://informations.handicap.fr/a-catherine-marchal-actrice-le-handicap-manque-a-l-ecran-38555.php
 vendredi 14 novembre 2025
 
-
-</body>
-</html>
