@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 21 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 21 novembre 2025
 
 # [Droits de l’enfant] Yasmine, 16 ans : « On se sent différent quand les autres nous renvoient qu’on n’est pas comme eux. »
@@ -118,6 +100,3 @@ Vingt ans après la loi de 2005, qui a permis quelques avancées, les associatio
 https://informations.handicap.fr/a-handicap-un-testing-confirme-les-discriminations-en-emploi-38557.php
 samedi 15 novembre 2025
 
-
-</body>
-</html>
