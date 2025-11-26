@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 26 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 26 novembre 2025
 
 # Invisibles mais réels : quand le handicap psychique entre dans le monde du travail
@@ -118,6 +100,3 @@ Il est essentiel d’avoir un système immunitaire qui fonctionne correctement t
 https://handinova.fr/comment-soutenir-son-systeme-immunitaire/
 vendredi 21 novembre 2025
 
-
-</body>
-</html>
