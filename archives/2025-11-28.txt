@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 28 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 28 novembre 2025
 
 # Détecter et alerter des situations de détresse en FAM, MAS : la technologie Orikio transforme l’accompagnement des personnes en situation de handicap en établissements
@@ -118,6 +100,3 @@ Frappé par 4 AVC à 40 ans, Jérémy Biasiol aurait pu ranger son tablier. 6 an
 https://informations.handicap.fr/a-jeremy-biasiol-chef-etoile-handicape-a-la-conquete-du-mof-38545.php
 vendredi 21 novembre 2025
 
-
-</body>
-</html>
