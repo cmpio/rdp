@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 29 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 29 novembre 2025
 
 # Foot : les joueurs amputés de l'OM débutent le championnat
@@ -118,6 +100,3 @@ mardi 25 novembre 2025
 https://informations.handicap.fr/a-handicap-les-cles-pour-des-elections-accessibles-en-2026-38533.php
 lundi 24 novembre 2025
 
-
-</body>
-</html>
