@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 30 novembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 30 novembre 2025
 
 # Prix Handi-livres 2025 : le handicap au fil des pages
@@ -118,6 +100,3 @@ Entre table de kiné et atelier de réparation vélo, Mélissa et Vonny prouvent
 https://informations.handicap.fr/a-malvoyance-deux-pro-inspirantes-dezinguent-les-prejuges-38585.php
 mardi 25 novembre 2025
 
-
-</body>
-</html>
