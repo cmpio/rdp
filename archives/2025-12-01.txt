@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 1 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 1 décembre 2025
 
 # Vidéo: Disneyland Paris, le DuoDay fait naître des vocations
@@ -118,6 +100,3 @@ Pour les personnes en situation de handicap ou âgées dépendantes, souscrire u
 https://handinova.fr/simuler-ses-frais-de-sante-et-dassurance-handicap-ce-quil-faut-faire-avant-de-souscrire-un-contrat/
 mardi 25 novembre 2025
 
-
-</body>
-</html>
