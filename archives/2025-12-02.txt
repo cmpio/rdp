@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 2 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 2 décembre 2025
 
 # Après quatre AVC, Jérémy Biasiol vise le concours du Meilleur ouvrier de France pour « montrer que c’est possible »
@@ -118,6 +100,3 @@ Les 14 et 15 novembre 2025, la Fondation John BOST a organisé la Vente de Paris
 https://handinova.fr/un-parcours-immersif-pour-ressentir-les-sensations-des-personnes-neuro-atypiques/
 mercredi 26 novembre 2025
 
-
-</body>
-</html>
