@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 7 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 7 décembre 2025
 
 # 'L'enfant et la lame': Jade, amputée, la vie à toute vitesse
@@ -118,6 +100,3 @@ Clara Duisit a toujours voulu avoir un enfant. Mais cette Iséroise de 37 ans, e
 https://www.faire-face.fr/2025/12/03/parentalite-handicap-maman-clara/
 mercredi 3 décembre 2025
 
-
-</body>
-</html>
