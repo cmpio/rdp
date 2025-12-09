@@ -1,5 +1,10 @@
 Revue de presse / Mardi 9 décembre 2025
 
+# Intelligence artificielle et handicap : faciliter la communication et l’accès à l’information
+L’intelligence artificielle transforme peu à peu la communication des personnes en situation de handicap. Entre logiciels intelligents et dispositifs adaptés, zoom sur les solutions qui améliorent con...
+https://handinova.fr/intelligence-artificielle-et-handicap-faciliter-la-communication-et-lacces-a-linformation/
+mardi 9 décembre 2025
+
 # Documentaire : 25 ans dans la vie d'une jeune femme sourde
 Dans "Elle entend pas la moto", la documentariste Dominique Fischbach retrace 25 ans de la vie d'une jeune fille sourde, au sein d'une famille marquée par le handicap, les choix éducatifs et le deuil....
 https://informations.handicap.fr/a-documentaire-25-ans-dans-la-vie-d-une-jeune-femme-sourde-38621.php
@@ -93,10 +98,5 @@ vendredi 5 décembre 2025
 # Décembre 2025
 L'actualité française du handicap et des personnes handicapées.
 https://www.yanous.com/news/actualite/actualite2512.html
-vendredi 5 décembre 2025
-
-# Pour des jeux accessibles
-Chef de projet Testing de Cap Game, Stéphane Laurent fait le point sur l'accessibilité du jeu vidéo.
-https://www.yanous.com/pratique/informatique/pointsdevue251205.html
 vendredi 5 décembre 2025
 
