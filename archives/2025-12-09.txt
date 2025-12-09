@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 9 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 9 décembre 2025
 
 # La Cour des comptes confirme la crise de l’aide à domicile
@@ -118,6 +100,3 @@ Dès avril 2026, une "attestation d'honorabilité" sera exigée dans les établi
 https://informations.handicap.fr/a-pro-du-handicap-bientot-un-controle-judiciaire-obligatoire-38615.php
 jeudi 4 décembre 2025
 
-
-</body>
-</html>
