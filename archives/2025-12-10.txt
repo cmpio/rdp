@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 10 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 10 décembre 2025
 
 # Handicap : les antécédents judiciaires des professionnels des établissements et services bientôt contrôlés
@@ -118,6 +100,3 @@ La présidente de l’Île-de-France mirage l'accessibilité des gares des train
 https://www.yanous.com/news/editorial/edito251205.html
 vendredi 5 décembre 2025
 
-
-</body>
-</html>
