@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 13 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 13 décembre 2025
 
 # PCH : la Cour des comptes appelle à une refonte profonde
@@ -118,6 +100,3 @@ mardi 9 décembre 2025
 https://www.handicap.live/video/pourquoi-choisir-la-psychiatrie-d-apres-le-professeur-olivier-bonnot-1337
 mardi 9 décembre 2025
 
-
-</body>
-</html>
