@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 17 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 17 décembre 2025
 
 # Handicap: EAM Gaïa, l'établissement médicosocial écolo du 93
@@ -118,6 +100,3 @@ Si les appareils auditifs conventionnels (prothèses) offrent une amplification 
 https://handinova.fr/de-lappareil-auditif-a-limplant-cochleaire/
 jeudi 11 décembre 2025
 
-
-</body>
-</html>
