@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 20 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 20 décembre 2025
 
 # Maxence : l'Odyssée d'un jeune dys qui refuse la résignation
@@ -118,6 +100,3 @@ mercredi 17 décembre 2025
 https://www.handicap.live/video/dans-le-93-un-etablissement-pionnier-de-la-decarbonation-1354
 mercredi 17 décembre 2025
 
-
-</body>
-</html>
