@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 24 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 24 décembre 2025
 
 # Myopathie Duchenne : accès à un traitement restreint aux USA
@@ -118,6 +100,3 @@ Votre pension d’invalidité n’est pas imposable car vous avez des ressources
 https://www.faire-face.fr/2025/12/18/pension-dinvalidite-revenu-fiscal-reference/
 jeudi 18 décembre 2025
 
-
-</body>
-</html>
