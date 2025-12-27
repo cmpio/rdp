@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 27 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 27 décembre 2025
 
 # Michaela Benthaus, première femme paraplégique dans l'espace
@@ -118,6 +100,3 @@ Un nouveau rapport parlementaire met en lumière les défaillances criantes des 
 https://handinova.fr/sante-mentale-et-handicap-le-rapport-qui-alerte-sur-une-catastrophe-annoncee/
 vendredi 19 décembre 2025
 
-
-</body>
-</html>
