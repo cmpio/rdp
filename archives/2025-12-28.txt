@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 28 décembre 2025</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 28 décembre 2025
 
 # Soudan du Sud : l'équipe de cécifoot rêve des paralympiques
@@ -118,6 +100,3 @@ vendredi 19 décembre 2025
 https://www.yanous.com/pratique/sports-loisirs/sportsloisirs251219.html
 vendredi 19 décembre 2025
 
-
-</body>
-</html>
