@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 1 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 1 janvier 2026
 
 # encore mieux vous informer en 2026
@@ -118,6 +100,3 @@ Le gouvernement a annoncé, le 17 décembre 2025, la présentation "début 2026"
 https://informations.handicap.fr/a-handicap-un-plan-pour-la-vie-affective-annonce-debut-2026-38667.php
 mardi 23 décembre 2025
 
-
-</body>
-</html>
