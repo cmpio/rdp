@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 2 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 2 janvier 2026
 
 # [Publi-information] Handynamic : louez ou achetez votre véhicule aménagé en toute liberté
@@ -118,6 +100,3 @@ mardi 23 décembre 2025
 https://handinova.fr/ladapt-elit-son-nouveau-president-jean-louis-dubois-succede-a-bruno-pollez/
 mardi 23 décembre 2025
 
-
-</body>
-</html>
