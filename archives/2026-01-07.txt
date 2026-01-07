@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 7 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 7 janvier 2026
 
 # MaPrimeAdapt’ en complément de la PCH : ce qui a changé le 1er janvier
@@ -118,6 +100,3 @@ Malgré l'instabilité du pays et le manque de moyens, l'équipe sud-soudanaise 
 https://informations.handicap.fr/a-soudan-du-sud-l-equipe-de-cecifoot-reve-des-paralympiques-38519.php
 dimanche 28 décembre 2025
 
-
-</body>
-</html>
