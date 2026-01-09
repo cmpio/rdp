@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 9 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 9 janvier 2026
 
 # SEP: une bactérie de la bouche dans le viseur des chercheurs
@@ -118,6 +100,3 @@ L'Agence nationale du handicap argentine, qui aidait plus de 3 millions de perso
 https://informations.handicap.fr/a-argentine-l-agence-du-handicap-dissoute-en-plein-scandale-38693.php
 mercredi 31 décembre 2025
 
-
-</body>
-</html>
