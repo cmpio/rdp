@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 10 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 10 janvier 2026
 
 # 'Échos' : 20 témoignages bruts sur la vie avec un handicap
@@ -118,6 +100,3 @@ Quand la maladie d’Alzheimer progresse, la perte de mémoire et le déclin cog
 https://handinova.fr/lodorat-au-secours-dalzheimer-la-recherche-avance/
 samedi 3 janvier 2026
 
-
-</body>
-</html>
