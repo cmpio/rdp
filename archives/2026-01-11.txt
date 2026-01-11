@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 11 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 11 janvier 2026
 
 # Fratries de personnes handicapées : la parole se libère
@@ -118,6 +100,3 @@ L'asso "Une école inclusive pour tous" lance une action de groupe contre 10 rec
 https://informations.handicap.fr/a-aesh-une-association-attaque-les-rectorats-pour-inaction-38663.php
 dimanche 4 janvier 2026
 
-
-</body>
-</html>
