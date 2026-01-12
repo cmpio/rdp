@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 12 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 12 janvier 2026
 
 # Rêve de basket pro brisé par un AVC : le rebond de Soren
@@ -118,6 +100,3 @@ Sentiment d'utilité, appartenance au collectif, appréhension du monde professi
 https://informations.handicap.fr/a-benevolat-inclusif-autonomie-lien-social-et-pouvoir-d-agir-38665.php
 lundi 5 janvier 2026
 
-
-</body>
-</html>
