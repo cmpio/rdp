@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 14 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 14 janvier 2026
 
 # L’accessibilité devient enfin obligatoire dans les bâtiments professionnels… neufs
@@ -118,6 +100,3 @@ Quand comprendre sa santé mentale devient un défi, les images peuvent tout cha
 https://informations.handicap.fr/a-deux-bd-en-falc-pour-demystifier-la-sante-mentale-38697.php
 jeudi 8 janvier 2026
 
-
-</body>
-</html>
