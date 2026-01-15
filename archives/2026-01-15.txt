@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 15 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 15 janvier 2026
 
 # Le Gaming comme outil de rééducation cognitive et motrice
@@ -118,6 +100,3 @@ Lancé début décembre par Action Visible et Handicap, un podcast expose la nai
 https://www.yanous.com/espaces/parents/parents260109.html
 vendredi 9 janvier 2026
 
-
-</body>
-</html>
