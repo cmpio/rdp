@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 16 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 16 janvier 2026
 
 # Barbie autiste : icône inclusive ou vision stéréotypée?
@@ -118,6 +100,3 @@ Conçu par une société lavalloise, le 'Promener' permet de se placer et randon
 https://www.yanous.com/pratique/materiels/materiels260109.html
 vendredi 9 janvier 2026
 
-
-</body>
-</html>
