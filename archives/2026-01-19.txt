@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 19 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 19 janvier 2026
 
 # Entreprendre avec un handicap : la volonté face aux freins
@@ -118,6 +100,3 @@ Ouvrir les lieux publics, de travail ou privés aux handicaps invisibles, c’es
 https://handinova.fr/rendre-accessible-aux-handicaps-invisibles-un-batiment-un-espace-public-ou-un-lieu-de-travail/
 mardi 13 janvier 2026
 
-
-</body>
-</html>
