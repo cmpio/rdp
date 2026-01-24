@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 24 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 24 janvier 2026
 
 # Dalo : malgré le critère du logement inadapté au handicap, encore trop de personnes à la porte
@@ -118,6 +100,3 @@ Derrière la solidarité fraternelle, une inquiétude persistante : celle de l'a
 https://informations.handicap.fr/a-handicap-freres-et-soeurs-l-angoisse-de-l-apres-parents-38711.php
 dimanche 18 janvier 2026
 
-
-</body>
-</html>
