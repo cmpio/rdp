@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 26 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 26 janvier 2026
 
 # Jeunes handicapés : un combat permanent pour leurs droits
@@ -118,6 +100,3 @@ Loin d’être un simple rituel de beauté, l’expérience sensorielle du bain 
 https://handinova.fr/hammam-paris-situation-de-handicap/
 mardi 20 janvier 2026
 
-
-</body>
-</html>
