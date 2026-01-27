@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 27 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 27 janvier 2026
 
 # Les auto-diagnostics handicap en organisations : un levier pour l’inclusion
@@ -118,6 +100,3 @@ Diffusé mercredi 21 janvier sur France 2, À la hauteur, réalisé par Julie Ch
 https://www.faire-face.fr/2026/01/21/france-2-a-la-hauteur-halte-aux-discriminations-envers-les-personnes-de-petite-taille/
 mercredi 21 janvier 2026
 
-
-</body>
-</html>
