@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 29 janvier 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 29 janvier 2026
 
 # Semaine olympique et para: 6 jours pour inclure par le sport
@@ -118,6 +100,3 @@ Le CrossFit, souvent perçu comme une discipline réservée aux athlètes valide
 https://handinova.fr/le-crossfit-adapte-aux-handicaps-moteurs-une-discipline-qui-ouvre-de-nouvelles-perspectives/
 vendredi 23 janvier 2026
 
-
-</body>
-</html>
