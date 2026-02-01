@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 1 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 1 février 2026
 
 # AAH et PCH cumulables : montants, conditions et démarches
@@ -118,6 +100,3 @@ lundi 26 janvier 2026
 https://informations.handicap.fr/a-loi-fin-de-vie-aidez-nous-a-vivre-plutot-qu-a-mourir-38733.php
 lundi 26 janvier 2026
 
-
-</body>
-</html>
