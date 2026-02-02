@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 2 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 2 février 2026
 
 # Trouver le bon antidépresseur grâce à une prise de sang?
@@ -118,6 +100,3 @@ Plus que quelques jours pour vous assurer de votre inscription sur les listes é
 https://www.faire-face.fr/2026/01/26/elections-municipales-aux-urnes-citoyens/
 lundi 26 janvier 2026
 
-
-</body>
-</html>
