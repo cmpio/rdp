@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 3 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 3 février 2026
 
 # Web-série Échos [YouTube] : des récits qui résonnent
@@ -118,6 +100,3 @@ Depuis la réforme historique de la « déconjugalisation » de l’Allocation a
 https://handinova.fr/aah-deconjugalisee-et-mutuelle-comment-optimiser-votre-couverture-sante/
 mardi 27 janvier 2026
 
-
-</body>
-</html>
