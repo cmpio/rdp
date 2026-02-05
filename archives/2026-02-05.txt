@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 5 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 5 février 2026
 
 # Handicap : la ministre Parmentier-Lecocq sur le départ
@@ -118,6 +100,3 @@ Le taux de salariés handicapés à atteindre dans le secteur privé comme publi
 https://www.faire-face.fr/2026/01/30/emploi-et-handicap-cinq-prejuges-quil-est-bon-de-bousculer/
 vendredi 30 janvier 2026
 
-
-</body>
-</html>
