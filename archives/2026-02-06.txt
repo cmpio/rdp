@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 6 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 6 février 2026
 
 # Maladies neurodégénératives : la lumière, piste prometteuse
@@ -118,6 +100,3 @@ Le Pr Alain Fischer, immunologue, dénonce les prix "exorbitants" des thérapies
 https://informations.handicap.fr/a-therapies-innovantes-prix-excessifs-medecine-de-riches-38719.php
 samedi 31 janvier 2026
 
-
-</body>
-</html>
