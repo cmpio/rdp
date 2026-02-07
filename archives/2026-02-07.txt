@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 7 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 7 février 2026
 
 # Insertion des personnes handicapées : Ladapt en difficulté
@@ -118,6 +100,3 @@ Ils seront 4 à porter le drapeau tricolore à Milan-Cortina 2026. Cécile Herna
 https://informations.handicap.fr/a-milan-2026-2-paralympiens-et-2-olympiens-porte-drapeaux-38761.php
 mercredi 4 février 2026
 
-
-</body>
-</html>
