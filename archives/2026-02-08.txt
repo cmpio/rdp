@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 8 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 8 février 2026
 
 # IDF : des vélos adaptés disponibles en location longue durée
@@ -118,6 +100,3 @@ IA, capteurs, applications mobiles : le handicap visuel est aujourd'hui l'un des
 https://informations.handicap.fr/a-handicap-visuel-la-tech-nouvelle-revolution-de-l-autonomie-38765.php
 mercredi 4 février 2026
 
-
-</body>
-</html>
