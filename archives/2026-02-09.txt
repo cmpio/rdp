@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 9 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 9 février 2026
 
 # Contribution handicap : fin de l'écrêtement, quels effets?
@@ -118,6 +100,3 @@ Le premier film du chorégraphe Philippe Ménard, en salles le 4 février, a ét
 https://www.faire-face.fr/2026/02/04/dis-moi-sur-quel-pied-tu-danses-cinema-handicap/
 mercredi 4 février 2026
 
-
-</body>
-</html>
