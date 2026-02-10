@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 10 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 10 février 2026
 
 # Handicap : la prime Ségur impayée dans 53 départements
@@ -118,6 +100,3 @@ Préserver le « capital épaules » : l’approche nutritionnelle Le quotidien 
 https://handinova.fr/le-capital-epaules-des-utilisateurs-de-fauteuil-manuel/
 jeudi 5 février 2026
 
-
-</body>
-</html>
