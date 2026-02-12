@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 12 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 12 février 2026
 
 # Université du Réseau des Référents Handicap 2026 : inscrivez-vous
@@ -118,6 +100,3 @@ En 2026, le Gouvernement autorise à construire inaccessible et ne veut pas dév
 https://www.yanous.com/news/editorial/edito260206.html
 vendredi 6 février 2026
 
-
-</body>
-</html>
