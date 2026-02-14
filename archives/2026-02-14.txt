@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 14 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 14 février 2026
 
 # Fauteuils roulants : des réparations mieux remboursées… mais pas en totalité
@@ -118,6 +100,3 @@ Fin de la mesure d'écrêtement ! En mai, les entreprises de 20 salariés et plu
 https://informations.handicap.fr/a-contribution-handicap-fin-de-l-ecretement-quels-effets-38771.php
 lundi 9 février 2026
 
-
-</body>
-</html>
