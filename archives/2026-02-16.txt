@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 16 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 16 février 2026
 
 # Argentine : procès pour corruption à l'ex-Agence du handicap
@@ -118,6 +100,3 @@ Les troubles du neurodéveloppement exposent-ils davantage à l'épilepsie... et
 https://informations.handicap.fr/a-epilepsie-et-tnd-un-lien-frequent-mais-sous-estime-38783.php
 lundi 9 février 2026
 
-
-</body>
-</html>
