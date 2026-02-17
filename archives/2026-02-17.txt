@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 17 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 17 février 2026
 
 # Milan-Cortina 2026 : les Bleus visent les sommets
@@ -118,6 +100,3 @@ Plus de 50 départements n'ont pas versé l'intégralité des financements desti
 https://informations.handicap.fr/a-handicap-la-prime-segur-impayee-dans-53-departements-38757.php
 mardi 10 février 2026
 
-
-</body>
-</html>
