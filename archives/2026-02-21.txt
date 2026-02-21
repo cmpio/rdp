@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 21 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 21 février 2026
 
 # Enfants handicapés, précaires : les angles morts des données
@@ -118,6 +100,3 @@ Le 10 mars prochain se tiendra la 12ème édition des Trophées Femmes en EA, ES
 https://handinova.fr/trophees-des-femmes-en-ea-esat-et-ei-2026-votez-pour-votre-candidate-preferee/
 mardi 17 février 2026
 
-
-</body>
-</html>
