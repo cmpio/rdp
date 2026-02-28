@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 28 février 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 28 février 2026
 
 # Elisa Jolivet, co-fondatrice d’Hapaulo : « Pour les parents, confier leur enfant en situation de handicap n’est pas simple »
@@ -118,6 +100,3 @@ Le budget participatif handicap d’Île-de-France ouvre la voie à vos initiati
 https://handinova.fr/deposez-vos-projets-vous-le-budget-participatif-de-la-region-ile-de-france/
 mardi 24 février 2026
 
-
-</body>
-</html>
