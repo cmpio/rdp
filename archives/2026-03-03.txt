@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 3 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 3 mars 2026
 
 # Paralympiques : le retour polémique de la Russie
@@ -118,6 +100,3 @@ Six salariés aidants sur dix n'en parlent à personne au travail selon un sonda
 https://informations.handicap.fr/a-aidants-au-travail-le-grand-silence-38817.php
 jeudi 26 février 2026
 
-
-</body>
-</html>
