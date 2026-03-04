@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 4 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 4 mars 2026
 
 # Les loisirs en ligne pour les personnes en situation de handicap : quelles options accessibles ?
@@ -118,6 +100,3 @@ Découvrir que son enfant est autiste soulève de nombreuses questions et suscit
 https://handinova.fr/8-livres-incontournables-sur-lautisme-pour-parents-et-educateurs/
 jeudi 26 février 2026
 
-
-</body>
-</html>
