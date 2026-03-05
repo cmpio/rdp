@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 5 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 5 mars 2026
 
 # Para 2030 : vers la fin d'un hors-jeu pour le sport adapté ?
@@ -118,6 +100,3 @@ Adaptation d’un programme créé aux Pays-Bas en 2018, Sur la route avec Matt 
 https://www.faire-face.fr/2026/02/26/sur-la-route-avec-matt-pokora-gulli/
 jeudi 26 février 2026
 
-
-</body>
-</html>
