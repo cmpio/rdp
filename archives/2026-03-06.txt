@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 6 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 6 mars 2026
 
 # HandiGuide des sports : 6 000 clubs désormais accessibles
@@ -118,6 +100,3 @@ Après la démission de Charlotte Parmentier-Lecocq, c'est Camille Galliard-Mini
 https://informations.handicap.fr/a-nouvelle-ministre-du-handicap-qui-est-camille-galliard-min-38837.php
 vendredi 27 février 2026
 
-
-</body>
-</html>
