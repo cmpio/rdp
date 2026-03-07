@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 7 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 7 mars 2026
 
 # Jeux paralympiques d’hiver 2026 – Cécile Hernandez, para snowboard : « Le handicap invisible a toute sa place dans le parasport »
@@ -118,6 +100,3 @@ Le codeur en Langue Parlée Complétée (LPC) occupe une fonction essentielle po
 https://handinova.fr/devenir-codeur-lpc-comment-faire/
 mardi 3 mars 2026
 
-
-</body>
-</html>
