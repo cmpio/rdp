@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 14 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 14 mars 2026
 
 # Test de Facil’iti : l’outil d’adaptation et d’inclusion des sites internet au confort visuel, moteur et cognitif
@@ -118,6 +100,3 @@ La saison démarre pour les salons Autonomic, avec un premier salon Autonomic To
 https://handinova.fr/autonomic-sud-2026-le-salon-du-handicap-et-du-grand-age-cest-bientot/
 lundi 9 mars 2026
 
-
-</body>
-</html>
