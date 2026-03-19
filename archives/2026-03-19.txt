@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 19 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 19 mars 2026
 
 # CMI invalidité et malus écologiques : quand la fraude risque de pénaliser des personnes handicapées
@@ -118,6 +100,3 @@ Combien de vies brisées derrière les murs des institutions ? Combien de talent
 https://www.faire-face.fr/2026/03/13/lecture-le-cocon-tisser-sa-liberte/
 vendredi 13 mars 2026
 
-
-</body>
-</html>
