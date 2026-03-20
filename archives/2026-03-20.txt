@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 20 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 20 mars 2026
 
 # Que contient le plan d’actions 2026-2027 pour la vie intime, affective et sexuelle des personnes en situation de handicap
@@ -118,6 +100,3 @@ dimanche 15 mars 2026
 https://informations.handicap.fr/a-inspiration-porn-le-piege-des-recits-heroiques-38875.php
 samedi 14 mars 2026
 
-
-</body>
-</html>
