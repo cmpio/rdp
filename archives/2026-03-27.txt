@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 27 mars 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 27 mars 2026
 
 # [Municipales et après ?] Faire entendre la voix des personnes en situation de handicap dans les instances communales
@@ -118,6 +100,3 @@ La campagne #Jeux2030Inclusifs s’affirme comme un mouvement citoyen en faveur 
 https://handinova.fr/campagne-jeux2030inclusifs-a-soutenir/
 vendredi 20 mars 2026
 
-
-</body>
-</html>
