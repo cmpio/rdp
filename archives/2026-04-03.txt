@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 3 avril 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 3 avril 2026
 
 # [En salles] Plus fort que moi : cinq raisons d’aller voir ce film qui sort de l’ombre le syndrome de la Tourette
@@ -118,6 +100,3 @@ lundi 30 mars 2026
 https://informations.handicap.fr/a-bipolarite-l-ia-peut-elle-ameliorer-les-diagnostics-38931.php
 lundi 30 mars 2026
 
-
-</body>
-</html>
