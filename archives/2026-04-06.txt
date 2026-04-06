@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 6 avril 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 6 avril 2026
 
 # Education : Malakoff Humanis relance son appel à projets
@@ -118,6 +100,3 @@ L'UIMM* et trois syndicats ont signé un accord pour porter à 5 % le taux d'emp
 https://informations.handicap.fr/a-metallurgie-accord-pour-5-pourcents-de-salaries-handicapes-38955.php
 mercredi 1 avril 2026
 
-
-</body>
-</html>
