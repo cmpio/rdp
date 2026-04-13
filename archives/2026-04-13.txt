@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 13 avril 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 13 avril 2026
 
 # Bipolarité : 5 idées reçues à déconstruire
@@ -119,6 +101,3 @@ Le métier d’accompagnant d’élèves en situation de handicap (AESH) joue un
 https://handinova.fr/les-conditions-dexercice-du-metier-daesh-regles-et-informations/
 mercredi 8 avril 2026
 
-
-</body>
-</html>
