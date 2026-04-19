@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 19 avril 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 19 avril 2026
 
 # Dépression résistante : Comment sortir de l'impasse ?
@@ -118,6 +100,3 @@ Près de 186 000 personnes ont bénéficié du remboursement de leur fauteuil ro
 https://informations.handicap.fr/a-fauteuils-roulants-180-000-beneficiaires-de-la-reforme-39007.php
 jeudi 16 avril 2026
 
-
-</body>
-</html>
