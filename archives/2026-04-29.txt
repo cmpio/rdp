@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 29 avril 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 29 avril 2026
 
 # SLA : vers un remboursement du Qalsody en France
@@ -118,6 +100,3 @@ mercredi 22 avril 2026
 https://www.handicap.live/video/film-sorda-la-maternite-au-defi-du-silence-1474
 mercredi 22 avril 2026
 
-
-</body>
-</html>
