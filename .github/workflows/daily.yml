@@ -1,7 +1,7 @@
 name: Press Review Every 30min (7h-23h30)
 on:
   schedule:
-    - cron: '0,30 6-23 * * *'  # Toutes les 30min de 7h à 23h30 Paris
+    - cron: '0,30 9-9 * * *'
   workflow_dispatch:      # Permet déclenchement manuel
 
 jobs:
