@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 30 avril 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 30 avril 2026
 
 # [M6] Un p’tit truc en plus, bien plus qu’un film : retour sur un succès populaire
@@ -118,6 +100,3 @@ C'est une première historique en France. La HAS vient de valider le rembourseme
 https://informations.handicap.fr/a-asthme-premier-avis-favorable-pour-therapie-numerique-39039.php
 vendredi 24 avril 2026
 
-
-</body>
-</html>
