@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 1 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 1 mai 2026
 
 # Cuba : le rêve paralympique face à la crise
@@ -118,6 +100,3 @@ Pendant trop longtemps, l’accessibilité des aires de jeux s’est résumée �
 https://handinova.fr/aires-de-jeux-inclusives-bien-plus-quune-rampe-un-projet-de-societe/
 vendredi 24 avril 2026
 
-
-</body>
-</html>
