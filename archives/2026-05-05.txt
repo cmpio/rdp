@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 5 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 5 mai 2026
 
 # Prise de rendez-vous en ligne dans les cabinets de kinésithérapie, orthophonie et soins adaptés : un enjeu d’accessibilité
@@ -118,6 +100,3 @@ Les syndicats de la fonction publique demandent le retrait d'un projet de décre
 https://informations.handicap.fr/a-fonction-publique-les-syndicats-exigent-un-retrait-39065.php
 mercredi 29 avril 2026
 
-
-</body>
-</html>
