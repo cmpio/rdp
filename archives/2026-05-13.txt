@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 13 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 13 mai 2026
 
 # Julien R. Thomson : le cinéma face au handicap à Cannes
@@ -118,6 +100,3 @@ Dimanche 26 avril – Hongrie – Inclusion. Le nouveau Premier ministre, Peter 
 https://www.yanous.com/news/rdpresse/rdpresse2603-04.html
 vendredi 8 mai 2026
 
-
-</body>
-</html>
