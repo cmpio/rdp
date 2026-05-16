@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 16 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 16 mai 2026
 
 # Santé mentale : le médico-social à bout de souffle
@@ -118,6 +100,3 @@ En un an, Chloé Louchart, 26 ans, s’est constitué une communauté de 300 000
 https://www.faire-face.fr/2026/05/12/chloe-louchart-linfluenceuse-qui-sensibilise-a-la-parentalite-avec-un-handicap/
 lundi 11 mai 2026
 
-
-</body>
-</html>
