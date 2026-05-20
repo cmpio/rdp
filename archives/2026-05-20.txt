@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 20 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 20 mai 2026
 
 # Faire évoluer les pratiques d’inclusion en entreprise : comment l’approche expérientielle peut-elle les renforcer ?
@@ -118,6 +100,3 @@ Handinova s’intéresse aux innovations qui améliorent concrètement le quotid
 https://handinova.fr/le-premier-fauteuil-roulant-embarquant-de-lia-est-arrive/
 jeudi 14 mai 2026
 
-
-</body>
-</html>
