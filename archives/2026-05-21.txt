@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 21 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 21 mai 2026
 
 # Lorenzaccio au Théâtre du Nord : une révolte brute
@@ -118,6 +100,3 @@ Et si la réponse aux douleurs inexpliquées de la fibromyalgie se trouvaient da
 https://informations.handicap.fr/a-fibromyalgie-l-espoir-de-la-greffe-fecale-39147.php
 lundi 18 mai 2026
 
-
-</body>
-</html>
