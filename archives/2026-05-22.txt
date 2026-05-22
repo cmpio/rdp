@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 22 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 22 mai 2026
 
 # Handi’Cape & Cinéma, un podcast qui a du chien
@@ -118,6 +100,3 @@ En France, plusieurs programmes de dépistage permettent de détecter certains c
 https://handinova.fr/le-depistage-des-cancers-calendrier-et-prise-en-charge/
 mardi 19 mai 2026
 
-
-</body>
-</html>
