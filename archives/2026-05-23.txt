@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 23 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 23 mai 2026
 
 # Austerlitz, future modèle des gares accessibles ?
@@ -118,6 +100,3 @@ La marque à la pomme renforce ses outils d'accessibilité avec des sous-titres 
 https://informations.handicap.fr/a-sous-titres-auto-et-eye-tracking-les-nouveautes-d-apple-39163.php
 mercredi 20 mai 2026
 
-
-</body>
-</html>
