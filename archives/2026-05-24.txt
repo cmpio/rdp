@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 24 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 24 mai 2026
 
 # Cannabis thérapeutique : une France à deux vitesses
@@ -118,6 +100,3 @@ Né en Belgique, Le Monde d'Ayden est un espace de jeux inclusif en intérieur, 
 https://informations.handicap.fr/a-le-monde-d-ayden-un-parc-de-jeux-inclusif-arrive-en-france-39157.php
 jeudi 21 mai 2026
 
-
-</body>
-</html>
