@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mardi 26 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mardi 26 mai 2026
 
 # Un évènement pour faire progresser l’emploi dans le secteur culturel
@@ -118,6 +100,3 @@ Faute de places pour adultes, des milliers de jeunes handicapés de plus de 20 a
 https://informations.handicap.fr/a-jeunes-handicapes-le-blocage-en-structures-pour-enfants-39171.php
 jeudi 21 mai 2026
 
-
-</body>
-</html>
