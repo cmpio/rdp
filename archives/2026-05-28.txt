@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 28 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 28 mai 2026
 
 # France Travail pour les personnes en situation de handicap : quels accompagnements ?
@@ -118,6 +100,3 @@ L'association Victimes & Citoyens lance le " Code de la Sortie de Route ". Un gu
 https://informations.handicap.fr/a-code-de-la-route-un-guide-face-aux-sequelles-de-la-vie-39175.php
 samedi 23 mai 2026
 
-
-</body>
-</html>
