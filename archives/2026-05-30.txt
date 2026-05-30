@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 30 mai 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 30 mai 2026
 
 # Xbox : de nouvelles options d'accessibilité gaming
@@ -118,6 +100,3 @@ Face aux critiques des associations de personnes handicapées sur les couacs et 
 https://informations.handicap.fr/a-fauteuils-roulants-a-100-le-ministere-rectifie-le-tir-39195.php
 mardi 26 mai 2026
 
-
-</body>
-</html>
