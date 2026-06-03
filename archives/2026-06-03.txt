@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 3 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 3 juin 2026
 
 # De retour du Royaume-Uni : l’accessibilité puissance 10
@@ -118,6 +100,3 @@ Le calcul de l'AAH et des pensions d'invalidité ou de vieillesse pourrait évol
 https://informations.handicap.fr/a-aah-et-pensions-vers-un-nouveau-calcul-plus-juste-39221.php
 lundi 1 juin 2026
 
-
-</body>
-</html>
