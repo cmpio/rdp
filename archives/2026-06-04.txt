@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 4 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 4 juin 2026
 
 # Handicap : Hanora+ aide les projets ESS à grandir
@@ -118,6 +100,3 @@ Arriver à la retraite marque le début d’une nouvelle étape de vie, où pré
 https://handinova.fr/courtier-mutuelle-senior-optimiser-sa-sante-son-patrimoine-et-ses-revenus-a-la-retraite/
 lundi 1 juin 2026
 
-
-</body>
-</html>
