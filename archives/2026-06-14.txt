@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 14 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 14 juin 2026
 
 # Don de sang : quelles limites en cas de handicap ?
@@ -118,6 +100,3 @@ La Fondation pour l'audition lance une nouvelle édition de ses Prix Société. 
 https://informations.handicap.fr/a-prix-audition-et-handicap-appel-a-candidatures-39273.php
 mercredi 10 juin 2026
 
-
-</body>
-</html>
