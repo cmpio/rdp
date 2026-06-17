@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 17 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 17 juin 2026
 
 # Canicule et handicap : comment prendre soin des plus fragiles ?
@@ -118,6 +100,3 @@ Du 23 au 28 juin à Strasbourg, ce festival veut montrer par l’exemple comment
 https://www.yanous.com/tribus/aveugles/aveugles260612.html
 vendredi 12 juin 2026
 
-
-</body>
-</html>
