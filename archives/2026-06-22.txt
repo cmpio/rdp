@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 22 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 22 juin 2026
 
 # Le cahier de vie : un support pensé pour placer la personne accueillie au cœur de son accompagnement, déjà adopté par 200 établissements accueillants des personnes en situation de handicap
@@ -118,6 +100,3 @@ Un décret modifie les règles d’assurance Le dispositif de retraite anticipé
 https://handinova.fr/nouvelles-regles-pour-la-retraite-anticipee-des-travailleurs-en-situation-de-handicap/
 mercredi 17 juin 2026
 
-
-</body>
-</html>
