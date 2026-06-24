@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 24 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 24 juin 2026
 
 # Hellfest : un modèle d'accessibilité pour le handicap ?
@@ -118,6 +100,3 @@ Chaleur mortelle à l'été 2025 : face au risque de canicule intense, le minist
 https://informations.handicap.fr/a-canicule-vigilance-accrue-pour-les-personnes-handicapees-e-39333.php
 vendredi 19 juin 2026
 
-
-</body>
-</html>
