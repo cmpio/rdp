@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 25 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 25 juin 2026
 
 # Hellfest 2026 : avec un binôme de festivaliers aidant-aidé
@@ -118,6 +100,3 @@ Les 27 et 28 juin 2026, les meilleures équipes françaises de cécifoot se retr
 https://informations.handicap.fr/a-cecifoot-la-coupe-de-france-fait-son-retour-39329.php
 samedi 20 juin 2026
 
-
-</body>
-</html>
