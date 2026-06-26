@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 26 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 26 juin 2026
 
 # Canicule : les annonces de la ministre du Handicap
@@ -118,6 +100,3 @@ Lors de la précédente édition, le président Emmanuel Macron avait annoncé u
 https://informations.handicap.fr/a-canicule-la-conference-nationale-du-handicap-reportee-39343.php
 mardi 23 juin 2026
 
-
-</body>
-</html>
