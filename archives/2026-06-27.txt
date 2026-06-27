@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 27 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 27 juin 2026
 
 # Allergies : un handicap invisible aggravé par les chaleurs
@@ -118,6 +100,3 @@ Le programme Hanora, initié par l’Avise en collaboration avec le Ministère d
 https://handinova.fr/appel-a-projet-hanora-pour-soutenir-linitiative-handicap/
 mercredi 24 juin 2026
 
-
-</body>
-</html>
