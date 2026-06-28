@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 28 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 28 juin 2026
 
 # Vitiligo : la campagne ' Juste une tache ? ' interpelle
@@ -118,6 +100,3 @@ Accessibilité, autonomie, harcèlement, rôle des AESH... Presque un an après 
 https://informations.handicap.fr/a-ecole-inclusive-les-enfants-du-cncph-passent-a-l-action-39353.php
 jeudi 25 juin 2026
 
-
-</body>
-</html>
