@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 29 juin 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 29 juin 2026
 
 # TDAH : et si c'était aussi une apnée du sommeil ?
@@ -118,6 +100,3 @@ Un nouveau décret publié au Journal officiel le 24 juin 2026 précise les règ
 https://informations.handicap.fr/a-accessibilite-au-travail-ce-qui-change-des-octobre-2026-39351.php
 jeudi 25 juin 2026
 
-
-</body>
-</html>
