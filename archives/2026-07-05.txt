@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 5 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 5 juillet 2026
 
 # Climat : comment adapter son logement avec un handicap ?
@@ -118,6 +100,3 @@ Tribune du Réseau Africain pour l’Inclusion des Personnes Handicapées (RAIPH
 https://handinova.fr/handicap-en-afrique-pour-leffectivite-des-droits-dela-sante-et-de-linclusion/
 mercredi 1 juillet 2026
 
-
-</body>
-</html>
