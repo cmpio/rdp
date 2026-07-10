@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 10 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 10 juillet 2026
 
 # AAH en ESAT : changement de règles
@@ -118,6 +100,3 @@ L'Arcom met en demeure le ministère de l'Action et des Comptes publics de rendr
 https://informations.handicap.fr/a-impots-gouv-fr-epingle-pour-son-accessibilite-39403.php
 lundi 6 juillet 2026
 
-
-</body>
-</html>
