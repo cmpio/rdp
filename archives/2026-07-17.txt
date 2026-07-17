@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 17 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 17 juillet 2026
 
 # Pour les malentendants : le chemin vers l’emploi est encore semé d’embuches
@@ -118,6 +100,3 @@ La 80e édition du Festival d'Avignon (4-25 juillet 2026) met en lumière plusie
 https://informations.handicap.fr/a-80e-edition-du-festival-d-avignon-l-accessibilite-au-top-39437.php
 lundi 13 juillet 2026
 
-
-</body>
-</html>
