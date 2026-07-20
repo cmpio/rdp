@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 20 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 20 juillet 2026
 
 # le combat de Bigot Marseille
@@ -118,6 +100,3 @@ La sarcopénie, ou fonte musculaire, ne concerne pas uniquement le grand âge. C
 https://informations.handicap.fr/a-sarcopenie-comment-preserver-ses-muscles-par-l-assiette-39443.php
 mardi 14 juillet 2026
 
-
-</body>
-</html>
