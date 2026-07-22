@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 22 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 22 juillet 2026
 
 # Maltraitance et handicap psy: les cicatrices sur le cerveau
@@ -118,6 +100,3 @@ Face à la pénurie de logements et à l'inflation, les personnes handicapées s
 https://informations.handicap.fr/a-crise-du-logement-les-solutions-pour-un-toit-adapte-en-2026-39455.php
 vendredi 17 juillet 2026
 
-
-</body>
-</html>
