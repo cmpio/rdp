@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 26 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 26 juillet 2026
 
 # Transport et handicap: mais que se passe-t-il avec les TPMR?
@@ -118,6 +100,3 @@ Après avoir mis sa carrière entre parenthèses, le boxeur Bigot Marseille se c
 https://informations.handicap.fr/a-boxe-et-handicap-le-combat-de-bigot-marseille-39471.php
 lundi 20 juillet 2026
 
-
-</body>
-</html>
