@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 29 juillet 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 29 juillet 2026
 
 # Handisurf : ' Ça crée une équité d'être dans l'eau '
@@ -118,6 +100,3 @@ Le Parlement a validé la nomination de François-Noël Buffet comme Défenseur 
 https://informations.handicap.fr/a-francois-noel-buffet-nomme-defenseur-des-droits-39457.php
 mardi 21 juillet 2026
 
-
-</body>
-</html>
