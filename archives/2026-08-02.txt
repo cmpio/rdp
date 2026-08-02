@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 2 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 2 août 2026
 
 # La liste des professionnels de santé habilités à prescrire des fauteuils roulants en France
@@ -118,6 +100,3 @@ Adopté dans la LFSS 2025, l'article 61 devait sécuriser le cadre juridique des
 https://informations.handicap.fr/a-transport-et-handicap-mais-que-se-passe-t-il-avec-les-tpmr-39503.php
 dimanche 26 juillet 2026
 
-
-</body>
-</html>
