@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 3 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 3 août 2026
 
 # le piège du ' débrouille-toi '
@@ -118,6 +100,3 @@ Le Festival Regards Croisés revient les 8 et 9 décembre 2026 à Saint-Malo. Po
 https://informations.handicap.fr/a-regards-croises-2026-l-aidance-entre-en-action-39501.php
 lundi 27 juillet 2026
 
-
-</body>
-</html>
