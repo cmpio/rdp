@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 5 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 5 août 2026
 
 # Zoom sur 3 affections de longue-durée qui sont des handicaps et peuvent mener à une RQTH
@@ -118,6 +100,3 @@ Depuis fin juillet, la Gironde vit ce que le ministre de l’Intérieur Laurent 
 https://handinova.fr/incendies-de-lete-que-devient-on-quand-on-vit-en-fam-mas-foyer-ou-en-ime-et-quil-faut-evacuer/
 mercredi 29 juillet 2026
 
-
-</body>
-</html>
