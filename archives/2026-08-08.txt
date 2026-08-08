@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 8 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 8 août 2026
 
 # UHSA : une alerte de plus sur la crise psychiatrique
@@ -118,6 +100,3 @@ lundi 3 août 2026
 https://informations.handicap.fr/a-trouve-ton-parasport-la-plateforme-cle-pour-la-rentree-39507.php
 dimanche 2 août 2026
 
-
-</body>
-</html>
