@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 10 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 10 août 2026
 
 # Beauté de la peau : pourquoi associer routine cosmétique et compléments alimentaires ?
@@ -118,6 +100,3 @@ mardi 4 août 2026
 https://www.handicap.live/video/fact-checking-episode-6-autisme-et-apparence-1537
 mardi 4 août 2026
 
-
-</body>
-</html>
