@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 14 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 14 août 2026
 
 # Santé et handicap : prévenir avant de payer plus cher
@@ -118,6 +100,3 @@ Construire une maison PMR consiste à prévoir, dès les plans, des circulations
 https://handinova.fr/construire-une-maison-pmr-normes-et-equipements/
 mercredi 5 août 2026
 
-
-</body>
-</html>
