@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Dimanche 23 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Dimanche 23 août 2026
 
 # Cliff jumping : quand l'adrénaline laisse des séquelles
@@ -118,6 +100,3 @@ Places réservées occupées, démarches complexes, fraudes à la carte CMI : se
 https://informations.handicap.fr/a-dossier-de-l-ete-special-stationnement-et-handicap-39539.php
 samedi 15 août 2026
 
-
-</body>
-</html>
