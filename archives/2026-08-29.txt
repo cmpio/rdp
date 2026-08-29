@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 29 août 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 29 août 2026
 
 # Canne blanche : vers un remboursement à 100 % ?
@@ -118,6 +100,3 @@ Le 11 septembre 2001, Roselle aide son maître aveugle à fuir la tour Nord du W
 https://informations.handicap.fr/a-11-septembre-roselle-la-chienne-guide-qui-sauva-son-maitre-39571.php
 lundi 24 août 2026
 
-
-</body>
-</html>
