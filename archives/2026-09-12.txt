@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 12 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 12 septembre 2026
 
 # Accidents de trottinette : 1 blessé grave sur 4 handicapé
@@ -118,6 +100,3 @@ Dès le 1er janvier 2027, le cumul de l'AAH et de l'ASS prendra fin pour les der
 https://informations.handicap.fr/a-fin-du-cumul-aah-ass-15-000-personnes-concernees-39661.php
 mardi 8 septembre 2026
 
-
-</body>
-</html>
