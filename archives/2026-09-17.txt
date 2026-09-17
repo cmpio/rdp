@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 17 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 17 septembre 2026
 
 # Ville accessible : le handicap intégré dès la conception
@@ -118,6 +100,3 @@ Les accompagnements à la grossesse dédiés aux femmes handicapées restent rar
 https://informations.handicap.fr/a-grossesse-et-handicap-quels-dispositifs-en-france-39687.php
 lundi 14 septembre 2026
 
-
-</body>
-</html>
