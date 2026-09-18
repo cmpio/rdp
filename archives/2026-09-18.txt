@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 18 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 18 septembre 2026
 
 # Marie-Amélie Le Fur : « Demain, tous les clubs sportifs doivent être en capacité d’accueillir les personnes en situation de handicap »
@@ -118,6 +100,3 @@ Sur les réseaux sociaux, un fer glacé suffit à imprimer un motif blanc sur la
 https://informations.handicap.fr/a-freeze-branding-le-tatouage-qui-marque-au-fer-blanc-39703.php
 mercredi 16 septembre 2026
 
-
-</body>
-</html>
