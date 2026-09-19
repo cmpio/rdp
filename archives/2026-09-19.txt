@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Samedi 19 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Samedi 19 septembre 2026
 
 # Handicap : comment choisir la bonne crèche pour son enfant ?
@@ -118,6 +100,3 @@ Visiter une abbaye, découvrir un musée, parcourir une réserve naturelle ou ex
 https://handinova.fr/avec-handivisites-accesens-rend-le-patrimoine-accessible-a-tous-zoom-sur-lauvergne-rhone-alpes/
 mercredi 16 septembre 2026
 
-
-</body>
-</html>
