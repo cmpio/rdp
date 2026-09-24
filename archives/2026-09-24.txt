@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 24 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 24 septembre 2026
 
 # ALD : Qui verra son indemnisation passer de 3 à 1 an ?
@@ -118,6 +100,3 @@ Grincements, mâchoire crispée, dents usées... Le bruxisme peut provoquer doul
 https://informations.handicap.fr/a-bruxisme-quand-les-dents-grincent-le-corps-trinque-39727.php
 dimanche 20 septembre 2026
 
-
-</body>
-</html>
