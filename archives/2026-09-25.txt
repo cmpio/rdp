@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Vendredi 25 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Vendredi 25 septembre 2026
 
 # Handicap : ce que dit l'Église à l'ère de Léon XIV
@@ -118,6 +100,3 @@ Le parquet de Paris a requis le renvoi devant un tribunal de la gérante du gît
 https://informations.handicap.fr/a-incendie-de-wintzenheim-vers-un-proces-pour-la-gerante-39735.php
 lundi 21 septembre 2026
 
-
-</body>
-</html>
