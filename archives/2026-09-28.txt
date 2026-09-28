@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Lundi 28 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Lundi 28 septembre 2026
 
 # Handicap psychique : sortir du flou pour ouvrir le dialogue
@@ -118,6 +100,3 @@ Manque de psychiatres, pénurie de lits, files d'attente qui s'allongent : les q
 https://informations.handicap.fr/a-psychiatrie-publique-pourquoi-les-medecins-font-greve-39747.php
 mercredi 23 septembre 2026
 
-
-</body>
-</html>
