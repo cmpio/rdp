@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Mercredi 30 septembre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Mercredi 30 septembre 2026
 
 # Cannabis médical : « Ne pas publier les décrets, c’est ajouter à notre souffrance »
@@ -118,6 +100,3 @@ Sur les réseaux sociaux, la quête d'un corps toujours plus musclé pousse cert
 https://informations.handicap.fr/a-quete-du-muscle-complements-dopage-et-sequelles-39765.php
 vendredi 25 septembre 2026
 
-
-</body>
-</html>
