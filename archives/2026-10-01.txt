@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Revue de presse] Jeudi 1 octobre 2026</title>
-    <style>
-        body {
-            font-family: monospace;
-            white-space: pre-wrap;
-            max-width: 1000px;
-            margin: 20px auto;
-            padding: 15px;
-            line-height: 1.4;
-        }
-    </style>
-</head>
-<body>
 Revue de presse / Jeudi 1 octobre 2026
 
 # Journée nationale des aidants – « Un jour, j’ai pété un câble quand un petit de l’école primaire a traité mon frère de mongole »
@@ -118,6 +100,3 @@ Et si le son devenait une nouvelle voie pour " voir " ? De l'écholocation humai
 https://informations.handicap.fr/a-l-echolocation-demain-verra-t-on-grace-aux-sons-39757.php
 dimanche 27 septembre 2026
 
-
-</body>
-</html>
